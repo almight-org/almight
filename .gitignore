@@ -23,6 +23,11 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
+=4.5.0
+=8.0.0
+=9.1.0
+=12.0.0
+
 # local env files
 .env.local
 .env.development.local
